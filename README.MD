@@ -8,5 +8,3 @@ This repository was created as a sandbox to practice and explore Git and GitHub 
 - Experiment with branching, merging, and resolving conflicts.
 - Practice collaboration using pull requests and issues.
 
-
-Trying semantic's commits
