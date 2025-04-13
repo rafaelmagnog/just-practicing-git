@@ -7,3 +7,6 @@ This repository was created as a sandbox to practice and explore Git and GitHub 
 - Learn the basics of Git commands and workflows.
 - Experiment with branching, merging, and resolving conflicts.
 - Practice collaboration using pull requests and issues.
+
+
+Trying semantic's commits
